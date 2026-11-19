@@ -1,0 +1,82 @@
+TAGIHAN
+
+Bukti Pembayaran · Payment Receipt
+
+---
+
+IDPEL 532101234567
+
+Budi Santoso
+
+LUNAS / PAID · Oktober 2026
+
+Pembayaran diterima · Payment received
+
+LUNAS — RP226.182 / PAID — RP226.182
+
+Halo, {{first_name}} — pembayaran tagihan Budi Santoso untuk pemakaian September 2026 sudah kami terima pada 18 Oktober 2026 via PLN Mobile. Terima kasih! / Hello, {{first_name}} — the payment for Budi Santoso for September 2026 usage was received on 18 October 2026 via PLN Mobile. Thank you!
+
+---
+
+No. referensi
+
+Reference no.
+
+INV-20261018-4567
+
+Tanggal bayar
+
+Paid on
+
+18 Oktober 2026
+
+PLN Mobile
+
+Pemakaian
+
+Usage
+
+152 kWh
+
+September 2026 · Stand 8.260 → 8.412 kWh
+
+Status
+
+Status
+
+Lunas / Paid
+
+Tagihan Oktober 2026 / Bill October 2026
+
+YANG DIBAYAR / WHAT WAS PAID
+
+Rincian / Breakdown | Perhitungan / Calculation | Jumlah / Amount
+Biaya energi / Energy charge | 152 kWh × Rp1.444,7 | Rp219.594
+PPJ 3% (Pajak Penerangan Jalan) / PPJ 3% (street-lighting tax) | 3% × Rp219.594 | Rp6.588
+Total tagihan / Total bill | Biaya energi + PPJ / Energy charge + PPJ | Rp226.182
+
+Simpan email ini sebagai bukti pembayaran — nomor referensi di atas cocok dengan IDPEL Anda. / Keep this email as proof of payment — the reference number above matches your IDPEL.
+
+TAGIHAN BERIKUTNYA / NEXT BILL
+
+Tagihan November 2026 (pemakaian Oktober 2026) sudah terbit sebesar Rp260.408 dan jatuh tempo 20 November 2026 — besok. / The November 2026 bill (for October 2026 usage) is out at Rp260.408 and falls due Friday, 20 November 2026 — tomorrow.
+
+Bayar Tagihan Berikutnya / Pay the Next Bill (https://example.com/tagihan/532101234567/bayar)
+
+Satu meteran, satu tagihan / One meter reading, one bill
+
+IDPEL 532101234567 · R-1/TR 1.300 VA · Meter 0038123456
+
+Tariff: Tarif PLN Triwulan IV 2026 (ESDM, tidak naik) · Rp1.444,7/kWh
+
+One meter reading, one bill — this IDPEL is identical on the bill email, the receipt, the page, the bill PDF and the reminder.
+
+Cek tagihan / Check bill (https://example.com/tagihan/532101234567) · Riwayat pembayaran / Payment history (https://example.com/tagihan/532101234567/bayar) · Berhenti berlangganan / Unsubscribe (https://example.com/unsubscribe)
+
+TAGIHAN — bukti pembayaran listrik, dari Tarif PLN Triwulan IV 2026 (ESDM, tidak naik). / TAGIHAN — electricity payment receipts, from Tarif PLN Triwulan IV 2026 (ESDM, tidak naik).
+
+---
+
+SAMPLE SCENARIO — a fictional customer, Budi Santoso, Kebumen, IDPEL 532101234567. Not a real bill. The customer, IDPEL, meter readings and payment record are illustrative; the tariff rules (ESDM Q4 2026) and the bill arithmetic are real. PPJ 3% is a sample rate — PPJ varies by region (perda).
+
+PLN ULP Kebumen · Jl. Merdeka No. 12, Kebumen, Kebumen, Jawa Tengah 54311

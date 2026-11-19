@@ -1,0 +1,146 @@
+TAGIHAN
+
+Tagihan Listrik · Electricity Bill
+
+---
+
+IDPEL 532101234567
+
+Budi Santoso
+
+November 2026 · Pemakaian / Usage Oktober 2026
+
+Tagihan bulan ini · This month's bill
+
+TAGIHAN NOVEMBER 2026: RP260.408 / BILL NOVEMBER 2026: RP260.408
+
+Halo, {{first_name}} — tagihan listrik Budi Santoso untuk pemakaian Oktober 2026 sudah terbit: 175 kWh, total Rp260.408. / Hello, {{first_name}} — the electricity bill for Budi Santoso for October 2026 usage is out: 175 kWh, total Rp260.408.
+
+---
+
+Stand awal
+
+Start reading
+
+8.412
+
+kWh · 30 Sep 2026
+
+Stand akhir
+
+End reading
+
+8.587
+
+kWh · 31 Okt 2026
+
+Pemakaian
+
+Usage
+
+175 kWh
+
+Oktober 2026 / October 2026
+
+Pemakaian naik / Usage up: +23 kWh (+15,1%) vs 152 kWh bulan lalu / vs 152 kWh last month
+
+Pembayaran
+
+Payment
+
+Total tagihan
+
+Total bill
+
+Rp260.408
+
+Tagihan November 2026 · Oktober 2026 / Bill Nov 2026 · Oct 2026 usage
+
+Jatuh tempo
+
+Due date
+
+20 November 2026
+
+Friday, 20 November 2026 · 23:59 WIB
+
+Hitung mundur
+
+Countdown
+
+Besok · Tomorrow
+
+Status pembayaran
+
+Payment status
+
+Belum dibayar · Unpaid
+
+Belum dibayar · Unpaid
+
+Bayar Sekarang / Pay Now (https://example.com/tagihan/532101234567/bayar)
+
+Cek tagihan / Check bill (https://example.com/tagihan/532101234567)
+
+Status ini adalah field data yang diperbarui setelah pelanggan membayar / This status is a data field updated once the customer pays — bayar sebelum jatuh tempo agar tidak kena denda keterlambatan / pay before the due date to avoid a late fee.
+
+RINCIAN TAGIHAN / BILL BREAKDOWN
+
+Tarif flat R-1/TR 1.300 VA: Rp1.444,7/kWh — tarif rumah tangga PLN itu flat per kWh per golongan daya, bukan bertingkat per blok pemakaian. / Flat tariff R-1/TR 1.300 VA: Rp1.444,7/kWh — the PLN household tariff is flat per kWh within a power class, not tiered by usage blocks.
+
+Rincian / Breakdown | Perhitungan / Calculation | Jumlah / Amount
+Biaya energi / Energy charge | 175 kWh × Rp1.444,7 | Rp252.823
+PPJ 3% (Pajak Penerangan Jalan) / PPJ 3% (street-lighting tax) | 3% × Rp252.823 | Rp7.585
+Total tagihan / Total bill | Biaya energi + PPJ / Energy charge + PPJ | Rp260.408
+
+PPJ 3% adalah tarif contoh — PPJ (Pajak Penerangan Jalan) ditetapkan tiap daerah (perda) dan berbeda-beda. / PPJ 3% is a sample rate — the street-lighting tax is set by each region (perda) and varies.
+
+PEMAKAIAN 6 BULAN TERAKHIR / USAGE, LAST 6 MONTHS
+
+Mei 2026 · May 2026
+
+148 kWh
+
+Jun 2026 · Jun 2026
+
+161 kWh
+
+Jul 2026 · Jul 2026
+
+139 kWh
+
+Agu 2026 · Aug 2026
+
+158 kWh
+
+Sep 2026 · Sep 2026
+
+152 kWh
+
+Okt 2026 · Oct 2026
+
+Bulan ini / This month
+
+175 kWh
+
+Rata-rata 6 bulan / 6-month average: 155,5 kWh
+
+Satu meteran, satu tagihan / One meter reading, one bill
+
+IDPEL 532101234567 · R-1/TR 1.300 VA · Meter 0038123456
+
+Tariff: Tarif PLN Triwulan IV 2026 (ESDM, tidak naik) · Rp1.444,7/kWh
+
+One meter reading, one bill — this IDPEL is identical on the bill email, the receipt, the page, the bill PDF and the reminder.
+
+Bayar Sekarang / Pay Now (https://example.com/tagihan/532101234567/bayar)
+
+Cek tagihan / Check bill (https://example.com/tagihan/532101234567) · Riwayat pemakaian / Usage history (https://example.com/tagihan/532101234567/riwayat) · Berhenti berlangganan / Unsubscribe (https://example.com/unsubscribe)
+
+TAGIHAN — pengingat tagihan listrik, dari Tarif PLN Triwulan IV 2026 (ESDM, tidak naik). Anda menerima email ini karena terdaftar sebagai pelanggan PLN ULP Kebumen. / TAGIHAN — electricity bill reminders, from Tarif PLN Triwulan IV 2026 (ESDM, tidak naik).
+
+---
+
+SAMPLE SCENARIO — a fictional customer, Budi Santoso, Kebumen, IDPEL 532101234567. Not a real bill. The customer, IDPEL, meter readings and payment record are illustrative; the tariff rules (ESDM Q4 2026) and the bill arithmetic are real. PPJ 3% is a sample rate — PPJ varies by region (perda).
+
+PLN ULP Kebumen · Jl. Merdeka No. 12, Kebumen, Kebumen, Jawa Tengah 54311
